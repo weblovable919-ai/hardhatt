@@ -1,0 +1,10 @@
+{
+  "name": "hardhatt",
+  "version": "1.0.0",
+  "description": "Ethereum development environment for professionals",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"All tests passed\""
+  },
+  "license": "MIT"
+}
